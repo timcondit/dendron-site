@@ -857,7 +857,7 @@ An enhancement in this release delivers breaking changes announced last week: [[
 
 ## 0.66.1
 
-> This was an accidental, breaking release. This only impacted the the Visual Studio Code extension. Users need to upgrade to at least `0.67.1`.
+> This was an accidental, breaking release. This only impacted the Visual Studio Code extension. Users need to upgrade to at least `0.67.1`.
 
 ## 0.66.0
 

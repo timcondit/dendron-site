@@ -10,7 +10,7 @@ created: 1656429781459
 
 > we need to be aware of technology’s designs and ensure that tech is working for us rather than against us
 
-The author talks about his recent realization of the effect of smartphones on his attention. By giving him the the ability to fill every idle moment with information consumption, it has made him less able to focus. 
+The author talks about his recent realization of the effect of smartphones on his attention. By giving him the ability to fill every idle moment with information consumption, it has made him less able to focus. 
 
 While this claim shouldn't come as a shocker to anyone, the realization here is nevertheless profound and one that most of us have not made. Every smoker knows about lung cancer but few actually stop. 
 

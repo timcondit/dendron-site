@@ -31,7 +31,7 @@ The easiest way to leave a comment is by using the [code stream extension](https
 
 You should have received an invite to be part of the **Dendrologist** team (if not, ping Kevin).  
 
-After you install the extension and log in, you'll be able to leave comments inline in the the docs!
+After you install the extension and log in, you'll be able to leave comments inline in the docs!
 
 ![](https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/project.code-stream.gif)
 

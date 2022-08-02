@@ -131,7 +131,7 @@ module.exports = {
 Below is a diff to make the changes a bit more obvious.
 ![diff of code](https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/pod-change.jpg)
 
-Run the pod again the the additional argument.
+Run the pod again the additional argument.
 
 ````
 ```sh
