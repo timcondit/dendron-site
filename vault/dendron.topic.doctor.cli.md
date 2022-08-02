@@ -22,7 +22,7 @@ Options:
   --wsRoot          location of workspace
   --vault           name of vault
   --quiet           don't print output to stdout
-  --enginePort      If set, connect to to running engine. If not set, create new
+  --enginePort      If set, connect to running engine. If not set, create new
                     instance of Dendron Engine
   --attach          Use existing engine instead of spawning a new one
   --useLocalEngine  If set, use in memory engine instead of connecting to a

@@ -394,7 +394,7 @@ To address this, we've migrated our publishing stack to [11ty](https://www.11ty.
 
 There's still some work left to integrate publishing into the Dendron plugin - meanwhile, you can take the new publishing workflow for a spin using the [[Dendron CLI|dendron.ref.cli]]
 
-In order to to use the 11ty based publishing, initialize your workspace with the following commands.
+In order to use the 11ty based publishing, initialize your workspace with the following commands.
 
 ```bash
 npm init -y

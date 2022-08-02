@@ -17,7 +17,7 @@ Make it easy for people to publish and find high quality notes for any topic the
 
 Dendron lets anyone publish an online version of the notes inside their Dendron vault. The [Dendron Website](https://dendron.so/) is an example of a published vault. 
 
-Dendron seeds is a project to to curate notes from existing open source material. This means re-mixing existing open source content into public references. For example, [og-aws](https://github.com/open-guides/og-aws) is a fantastic resource for AWS. [TLDR](https://github.com/tldr-pages/tldr) is a great reference for CLI. The former is only available as a README, the latter via the console. It should be easy to take the content from these sites and publish them as public Dendron vaults. The information in these vaults can also be enriched from other sources. In this way, Dendron can help build the highest quality, most up to date, information for any respective domain that people care about.
+Dendron seeds is a project to curate notes from existing open source material. This means re-mixing existing open source content into public references. For example, [og-aws](https://github.com/open-guides/og-aws) is a fantastic resource for AWS. [TLDR](https://github.com/tldr-pages/tldr) is a great reference for CLI. The former is only available as a README, the latter via the console. It should be easy to take the content from these sites and publish them as public Dendron vaults. The information in these vaults can also be enriched from other sources. In this way, Dendron can help build the highest quality, most up to date, information for any respective domain that people care about.
 
 ## Tasks
 
